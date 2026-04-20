@@ -1,18 +1,23 @@
-package listdemo;
-import java.util.*;
+package Collections;
+import java.util.HashMap;
+import java.util.Map;
+
 public class p4 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		List<String> ls = new ArrayList<>();
-		ls.add("Orange");
-		ls.add("geen");
-		ls.add("pink");
-		ls.add("red");
-		ls.add("Blue");
-		System.out.println(ls);
-		System.out.println("using sublist:");
-		System.out.println(ls.subList(0,2));
+		Map< Integer,String> map1 = new HashMap<>();
+		map1.put( 1, "Red");
+		map1.put(2, "Green");
+		map1.put(3, "Black");
+		map1.put(4, "White");
+		boolean res=map1.isEmpty();
+		System.out.println("Before Removing: "+res);
+		map1.clear();
+		
+		res=map1.isEmpty();
+		System.out.println("After removing: "+res);
+
 	}
 
 }
