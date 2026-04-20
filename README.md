@@ -48,4 +48,15 @@ p11: https://github.com/keerthanmoods/Advanced-Java-J2EE/blob/main/p11.png
 
 p12: https://github.com/keerthanmoods/Advanced-Java-J2EE/blob/main/p12.png
 
+output StringBuildingFunctions https://github.com/keerthanmoods/Advanced-Java-J2EE/blob/main/StringBuildingFunctions.png
+
+output StringHandlingFunctions https://github.com/keerthanmoods/Advanced-Java-J2EE/blob/main/StringHandlingFunctions.png
+
+
+
+
+
+
+
+
 
