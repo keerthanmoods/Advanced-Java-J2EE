@@ -52,6 +52,10 @@ output StringBuildingFunctions https://github.com/keerthanmoods/Advanced-Java-J2
 
 output StringHandlingFunctions https://github.com/keerthanmoods/Advanced-Java-J2EE/blob/main/StringHandlingFunctions.png
 
+output PerformanceTest https://github.com/keerthanmoods/Advanced-Java-J2EE/blob/main/PerformanceTest.png
+
+output StringInterviewSolutions https://github.com/keerthanmoods/Advanced-Java-J2EE/blob/main/StringInterviewSolutions.png
+
 
 
 
